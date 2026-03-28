@@ -54,6 +54,7 @@
   <br/>
   <img src="https://streak-stats.demolab.com?user=Emaan-Fatima-1&theme=tokyonight" />
 </p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Emaan-Fatima-1&theme=tokyo-night" />
 
 ---
 ## 📫 Connect With Me
