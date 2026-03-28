@@ -55,9 +55,6 @@
   <br/>
   <img src="https://streak-stats.demolab.com?user=Emaan-Fatima-1&theme=tokyonight" />
 </p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Emaan-Fatima-1&theme=tokyo-night" />
-</p>
 
 
 ---
