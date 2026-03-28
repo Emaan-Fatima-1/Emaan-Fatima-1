@@ -38,7 +38,7 @@
 
 ---
 
-## 📌 What I'm Currently Working On
+📌 What I'm Currently Working On
 
 * 🔭 Building Machine Learning projects
 * 📚 Learning Cloud Computing (AWS / Azure)
@@ -47,7 +47,7 @@
 
 ---
 
-## 📊 GitHub Stats
+**📊 GitHub Stats**
 
 ![Emaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emaan-Fatima-1&show_icons=true&theme=tokyonight&count_private=true)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Emaan-Fatima-1&theme=tokyonight)
