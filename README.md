@@ -9,7 +9,7 @@
 ## 🚀 About Me
 
 * 💡 Curious mind exploring AI & real-world problem solving
-* 🎯 Focused on becoming a skilled AI/ML Engineer
+* 🎯 Focused on becoming a skilled AI/ML Engineerima
 * ⚡ Love turning ideas into practical projects
 
 ---
@@ -45,16 +45,6 @@
 * 💡 Preparing for AI/ML internships
 * 🎯 Practicing Python daily
 
----
-
-## 📊 GitHub Stats
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Emaan-Fatima-1&show_icons=true&theme=tokyonight&count_private=true" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Emaan-Fatima-1&theme=tokyonight" />
-</p>
 
 
 ---
