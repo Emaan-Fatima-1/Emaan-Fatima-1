@@ -1,16 +1,65 @@
-## Hi there 👋
+# 👋 Hi, I'm Emaan Fatima
 
-<!--
-**Emaan-Fatima-1/Emaan-Fatima-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 IT Student at UMT - University of Management and Technology
+🤖 Passionate about Artificial Intelligence & Machine Learning
+🌱 Currently learning: Python, Machine Learning & Computer Vision
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 💡 Curious mind exploring AI & real-world problem solving
+* 🎯 Focused on becoming a skilled AI/ML Engineer
+* ⚡ Love turning ideas into practical projects
+
+---
+
+## 🛠️ Skills & Technologies
+
+### 💻 Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![C++](https://img.shields.io/badge/C%2B%2B-Programming-blue?logo=c%2B%2B)
+
+### 🤖 Machine Learning & AI
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?logo=scikitlearn)
+![Pandas](https://img.shields.io/badge/Pandas-Data-black?logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-Arrays-blue?logo=numpy)
+
+* Natural Language Processing
+
+### 🧰 Tools
+
+![Git](https://img.shields.io/badge/Git-VersionControl-orange?logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)
+![VS Code](https://img.shields.io/badge/VSCode-Editor-blue?logo=visualstudiocode)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
+
+---
+
+## 📌 What I'm Currently Working On
+
+* 🔭 Building Machine Learning projects
+* 📚 Learning Cloud Computing (AWS / Azure)
+* 💡 Preparing for AI/ML internships
+* 🎯 Practicing Python daily
+
+---
+
+## 📊 GitHub Stats
+
+![Emaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
+
+---
+
+## 📫 Connect With Me
+
+* 🔗 LinkedIn: https://www.linkedin.com/in/emaan-fatima-147838358
+* 📧 Email: [emaanfatima2249@gmail.com](mailto:emaanfatima2249@gmail.com)
+
+---
+
+✨ Fun Fact
+
+> I love solving problems with code and I’m always eager to learn new technologies 🚀
